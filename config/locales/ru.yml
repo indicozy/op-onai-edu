@@ -1486,7 +1486,7 @@ ru:
       about: О Себе
       about_placeholder: Краткое описание о себе
       photo: Фото
-      change_photo: Измени фото
+      change_photo: Изменить фото
       security: Безопасность
       update_credentials: Обновите свои учетные данные для входа в школу.
       change_password: Изменить текущий пароль
@@ -1838,6 +1838,8 @@ ru:
       subtitle: Введите свой адрес электронной почты для восстановления пароля.
   shared:
     none: Ничего
+    post: Пост
+    reply: Ответ
     social: Соц. Сети
     contact: Контакты
     sitemap: Карта Сайта
@@ -1934,6 +1936,8 @@ ru:
     are: ""
     is: ""
     notifications:
+      notice: Уведомление
+      error: Ошибка
       unexpected_error: Непредвиденная Ошибка!
       please_reload: Пожалуйста, обновите страницу и попробуйте еще раз.
       something_wrong: Что-то пошло не так!
@@ -2000,6 +2004,7 @@ ru:
     your_correct_answer: Ваш Правильный Ответ
     correct_answer: Правильный Ответ
     your_answer: Ваш Ответ
+    question: Вопрос
   controllers:
     ApplicantsController:
       link_expired: Срок действия этой одноразовой ссылки истек или она недействительна. Если вы уже завершили регистрацию, пожалуйста, войдите в систему.

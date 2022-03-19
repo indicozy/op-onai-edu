@@ -100,7 +100,7 @@ en:
         label: Affiliation
         placeholder: Acme Inc., Acme University, etc.
       email:
-        label: Emai l
+        label: Email
         placeholder: Student email here
       name:
         error: is not valid
@@ -1837,6 +1837,8 @@ en:
       submit_button: Request password reset
       subtitle: Enter your email for password recovery.
   shared:
+    post: Post
+    reply: Reply
     none: None
     social: Social
     contact: Contact
@@ -1934,6 +1936,8 @@ en:
     are: are
     is: is
     notifications:
+      notice: Notice
+      error: Error
       unexpected_error: Unexpected Error!
       please_reload: Please reload the page and try again.
       success: Success
@@ -2000,6 +2004,7 @@ en:
     your_correct_answer: Your Correct Answer
     correct_answer: Correct Answer
     your_answer: Your Answer
+    question: Question
   controllers:
     ApplicantsController:
       link_expired: That one-time link has expired, or is invalid. If you have already completed enrollment, please sign in.
